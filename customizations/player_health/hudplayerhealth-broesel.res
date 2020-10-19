@@ -101,13 +101,13 @@
 		"xpos"			"-18"
 		"ypos"			"12"
 		"font"			"Cerbetica24"
-		"font_minmode"	"Cerbetica24"
+		"font_minmode"	"Nunito24"
 	}
 
 	"PlayerStatusHealthValueShadow"
 	{
 		"font"			"Cerbetica24"
-		"font_minmode"	"Cerbetica24"
+		"font_minmode"	"Nunito24"
 	}
 
 	"PlayerStatusAnchor"
